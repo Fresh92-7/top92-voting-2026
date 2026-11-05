@@ -1038,9 +1038,11 @@
         if (!url.startsWith('http')){
           url = `https://open.spotify.com/track/${url}`;
         }
-        src = url
-          .replace('open.spotify.com/track', 'open.spotify.com/embed/track')
-          + '?utm_source=generator&theme=0';
+        const embedUrl = new URL(url);
+        embedUrl.pathname = embedUrl.pathname.replace(/^\/track\//, '/embed/track/');
+        embedUrl.search = new URLSearchParams({ utm_source: 'generator', theme: '0' }).toString();
+        embedUrl.hash = '';
+        src = embedUrl.toString();
         height = 152;
         playerWrap.classList.add('spotify');
         isSpotify = true;

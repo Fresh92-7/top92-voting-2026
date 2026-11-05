@@ -322,7 +322,7 @@ window.SONGS_2025 = [
   {
     "title": "Let Me Forget You",
     "artist": "Warriner And LORYN",
-    "spotify": "https://open.spotify.com/track/0rsjFcWbyP89pyJDUfCNQQ?si=33c652e4477a41d8"
+    "spotify": "https://open.spotify.com/track/0rsjFcWbyP89pyJDUfCNQQ?si=131d8a350b5e4264"
   },
   {
     "title": "Do I Like You Like That",
