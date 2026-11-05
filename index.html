@@ -7,16 +7,16 @@
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Exo+2:wght@300;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root{
-      --fresh-blue:#00c2b3;
-      --purple:#ff4fad;
-      --cyan:#ffd166;
-      --bg:#0b0b12;
-      --panel:#10121c;
-      --muted:#b3b8c2;
-      --text:#ffffff;
-      --sunset-1:#ff9a3c; /* strong logo orange */
-      --sunset-2:#ffb56b; /* soft peach transition */
-      --sunset-3:#7fd6ff; /* gentle ocean blue */
+      --fresh-blue:#6aaf58;
+      --purple:#f6d85d;
+      --cyan:#f6d85d;
+      --bg:#08170d;
+      --panel:#0b2113;
+      --muted:#c4d2bd;
+      --text:#fff9e6;
+      --jungle-1:#f1cd4d; /* warm yellow from the 2026 reference */
+      --jungle-2:#ffe582; /* sunlit yellow */
+      --jungle-3:#dec454; /* muted golden highlight */
     }
 
     *{box-sizing:border-box}
@@ -37,8 +37,8 @@
       position:fixed;
       inset:0;
       background:
-        linear-gradient(180deg, rgba(5,8,15,.70), rgba(5,8,15,.45)),
-        url('https://www.journee-mondiale.com/en/wp-content/uploads/2024/11/msg_01R4J6e5BTseBK6PNsLBfEKC.webp')
+        linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
+        url('assets/jungle-background-2026.png')
           center / cover no-repeat;
       transform:scaleX(-1);
       z-index:-1;
@@ -56,8 +56,8 @@
     main.wrap{margin-bottom:0}
 
     .box{
-      background:rgba(16,18,28,.72);
-      border:1px solid rgba(255,255,255,.08);
+      background:rgba(7,24,13,.92);
+      border:1px solid rgba(161,196,140,.12);
       border-radius:16px;
       padding:14px;
       backdrop-filter:blur(6px);
@@ -74,8 +74,8 @@
     input[type="email"],
     input[type="tel"],
     select{
-      background:#0f1020;
-      border:1px solid #262a43;
+      background:#0b2113;
+      border:1px solid #3f6041;
       color:var(--text);
       padding:10px 12px;
       border-radius:10px;
@@ -96,23 +96,23 @@
       font-weight:700;
       font-family:'Exo 2',sans-serif;
       letter-spacing:.3px;
-      color:#1b0f12;
-      background:linear-gradient(135deg, var(--sunset-1), var(--sunset-2) 55%, var(--sunset-3));
-      box-shadow:0 6px 16px rgba(17,25,40,.22);
+      color:#142410;
+      background:linear-gradient(135deg, var(--jungle-1), var(--jungle-2) 55%, var(--jungle-3));
+      box-shadow:0 6px 16px rgba(3,13,6,.30);
       cursor:pointer;
       min-height:44px;
       touch-action:manipulation;
     }
 
     .btn.secondary{
-      background:rgba(255,255,255,.08);
+      background:rgba(161,196,140,.12);
       color:var(--text);
     }
 
     .btn.ghost{
       background:transparent;
       color:var(--text);
-      border:1px solid #2a2d44;
+      border:1px solid #577249;
     }
 
     .btn:disabled{
@@ -124,8 +124,8 @@
       display:inline-flex;
       align-items:center;
       gap:6px;
-      background:rgba(255,255,255,.08);
-      border:1px solid rgba(255,255,255,.12);
+      background:rgba(161,196,140,.12);
+      border:1px solid rgba(246,216,93,.24);
       color:var(--text);
       padding:6px 10px;
       border-radius:999px;
@@ -197,9 +197,9 @@
     }
 
     .az button{
-      background:rgba(255,255,255,.06);
-      border:1px solid rgba(255,255,255,.12);
-      color:#e3e7f0;
+      background:rgba(100,153,86,.13);
+      border:1px solid rgba(246,216,93,.24);
+      color:#e5edda;
       padding:6px 8px;
       border-radius:8px;
       cursor:pointer;
@@ -211,8 +211,8 @@
 
     .az button.active{
       border-color:transparent;
-      color:#1b0f12;
-      background:linear-gradient(135deg, var(--sunset-1), var(--sunset-2) 55%, var(--sunset-3));
+      color:#142410;
+      background:linear-gradient(135deg, var(--jungle-1), var(--jungle-2) 55%, var(--jungle-3));
     }
 
     .az button:disabled{
@@ -250,12 +250,12 @@
       grid-template-columns:1fr auto auto;
       gap:10px;
       padding:10px 12px;
-      border-bottom:1px solid #1d1f33;
+      border-bottom:1px solid #29432c;
       align-items:center;
     }
 
     .row:hover{
-      background:rgba(255,255,255,.04);
+      background:rgba(246,216,93,.07);
     }
 
     .row .meta{
@@ -288,7 +288,7 @@
       justify-content:space-between;
       gap:8px;
       padding:10px 12px;
-      border-bottom:1px solid #1d1f33;
+      border-bottom:1px solid #29432c;
     }
 
     .muted{
@@ -458,8 +458,8 @@
         min-height:auto;
         box-shadow:0 6px 18px rgba(0,0,0,.4);
         z-index:999;
-        background:#0b0e18;
-        border:1px solid #242842;
+        background:#081b10;
+        border:1px solid #49663c;
         box-sizing:border-box;
       }
       #playerHead{
@@ -498,9 +498,9 @@
       left:50%;
       bottom:18px;
       transform:translateX(-50%);
-      background:rgba(10,12,20,.92);
+      background:rgba(5,20,10,.96);
       color:#fff;
-      border:1px solid #2a2d44;
+      border:1px solid #577249;
       border-radius:14px;
       padding:10px 14px;
       display:none;
@@ -523,7 +523,7 @@
       width:8px;
       height:8px;
       border-radius:50%;
-      background:#79ffe1;
+      background:#f6d85d;
       animation:bounce .9s infinite ease-in-out;
     }
 
@@ -599,8 +599,8 @@
         position:fixed;
         left:16px;
         bottom:16px;
-        background:#0f0f18;
-        border:1px solid #242842;
+        background:#081b10;
+        border:1px solid #49663c;
         border-radius:18px;
         padding:18px;
         display:none;
@@ -637,7 +637,7 @@
 
     #closePlayer{
       background:transparent;
-      border:1px solid #2a2d44;
+      border:1px solid #577249;
       color:#fff;
       border-radius:999px;
       padding:4px 12px;
@@ -652,7 +652,7 @@
     #playerWrap .player-controls{
       border-radius:14px;
       overflow:hidden;
-      background:#04060d;
+      background:#051009;
     }
 
     #playerWrap .player-controls iframe{
@@ -667,7 +667,19 @@
     #playerWrap.soundcloud .player-controls iframe{
       height:200px;
     }
-  </style>
+  
+    /* 2026 jungle: colour treatments only; existing layout is preserved. */
+    input::placeholder{color:#a8bda1;opacity:1}
+    input:focus-visible,select:focus-visible,.btn:focus-visible,.az button:focus-visible,#closePlayer:focus-visible{
+      outline:2px solid #ffe582;
+      outline-offset:2px;
+    }
+    .btn:hover:not(:disabled){filter:brightness(1.08)}
+    .btn.secondary:hover:not(:disabled),.az button:hover:not(:disabled):not(.active){background:rgba(246,216,93,.15)}
+    .votes-header h3{color:#ffe582}
+    .pill{background:rgba(246,216,93,.10)}
+    .list,.selected{scrollbar-color:#6f8e52 #0b2113}
+</style>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="songs-2025.js"></script>

@@ -7,15 +7,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Exo+2:wght@300;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root{
-      --bg:#0b0b12;
-      --text:#ffffff;
-      --muted:#c5c9d8;
-      --panel-bg:rgba(16,18,28,.82);
-      --panel-border:rgba(255,255,255,.12);
-      /* same sunset palette as voting page */
-      --sunset-1:#ff9a3c;
-      --sunset-2:#ffb56b;
-      --sunset-3:#7fd6ff;
+      --bg:#08170d;
+      --text:#fff9e6;
+      --muted:#c4d2bd;
+      --panel-bg:rgba(7,24,13,.94);
+      --panel-border:rgba(246,216,93,.24);
+      /* Same jungle palette as voting page */
+      --jungle-1:#f1cd4d;
+      --jungle-2:#ffe582;
+      --jungle-3:#dec454;
     }
 
     *{box-sizing:border-box;margin:0;padding:0}
@@ -36,8 +36,8 @@
       position:fixed;
       inset:0;
       background:
-        linear-gradient(180deg, rgba(5,8,15,.70), rgba(5,8,15,.45)),
-        url('https://www.journee-mondiale.com/en/wp-content/uploads/2024/11/msg_01R4J6e5BTseBK6PNsLBfEKC.webp')
+        linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
+        url('assets/jungle-background-2026.png')
           center / cover no-repeat;
       transform:scaleX(-1);
       z-index:-1;
@@ -128,8 +128,8 @@
       font-family:'Exo 2',sans-serif;
       letter-spacing:.25px;
       text-decoration:none;
-      color:#140b08;
-      background:linear-gradient(135deg,var(--sunset-1),var(--sunset-2) 55%,var(--sunset-3));
+      color:#142410;
+      background:linear-gradient(135deg,var(--jungle-1),var(--jungle-2) 55%,var(--jungle-3));
       box-shadow:0 8px 22px rgba(0,0,0,.38);
       cursor:pointer;
     }
@@ -201,7 +201,11 @@
         z-index: 4;
         pointer-events: none;
     }
-  </style>
+  
+    /* 2026 jungle: colour treatments only; existing layout is preserved. */
+    .thank-card h1{color:#ffe582}
+    .btn:focus-visible{outline:2px solid #fff9e6;outline-offset:2px}
+</style>
 </head>
 <body>
   <!-- Same logo + position as main page -->
