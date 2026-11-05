@@ -205,6 +205,15 @@
     /* 2026 jungle: colour treatments only; existing layout is preserved. */
     .thank-card h1{color:#ffe582}
     .btn:focus-visible{outline:2px solid #fff9e6;outline-offset:2px}
+
+    /* Portrait artwork for mobile; desktop keeps the landscape background. */
+    @media (max-width:600px){
+      body::before{
+        background-image:
+          linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
+          url('assets/jungle-background-mobile-2026.png');
+      }
+    }
 </style>
 </head>
 <body>
