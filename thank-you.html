@@ -195,9 +195,80 @@
       .brand-group{gap:10px}
       .brand-sponsors img{height:48px}
     }
+
+    /* Supplied jungle artwork frames the viewport behind the interface. */
+    body{isolation:isolate}
+    .page-art{
+      position:fixed;
+      inset:0;
+      z-index:-1;
+      overflow:hidden;
+      pointer-events:none;
+      user-select:none;
+    }
+    .page-art img{
+      position:absolute;
+      display:block;
+      height:auto;
+    }
+    .art-leaf-top-left{
+      width:clamp(280px,29vw,540px);
+      top:-130px;
+      left:-160px;
+      transform:rotate(-12deg);
+    }
+    .art-leaf-top-right{
+      width:clamp(420px,42vw,760px);
+      top:-230px;
+      right:-240px;
+      transform:rotate(-18deg);
+    }
+    .art-leaf-bottom-right{
+      width:clamp(300px,33vw,600px);
+      right:-135px;
+      bottom:-140px;
+      transform:rotate(165deg);
+    }
+    .art-leopard{
+      width:clamp(500px,56vw,960px);
+      left:clamp(-410px,-23vw,-220px);
+      bottom:-30px;
+    }
+    @media (max-width:1023px){
+      .art-leopard{width:min(48vw,380px)}
+    }
+    @media (max-width:600px){
+      .art-leaf-top-left{
+        width:72vw;
+        top:-12vw;
+        left:-32vw;
+      }
+      .art-leaf-top-right{
+        width:90vw;
+        top:-24vw;
+        right:-38vw;
+      }
+      .art-leaf-bottom-right{
+        width:80vw;
+        right:-34vw;
+        bottom:-12vw;
+      }
+      .art-leopard{
+        width:min(60vw,320px);
+        left:-55px;
+        bottom:-28px;
+      }
+    }
 </style>
 </head>
 <body>
+  <div class="page-art" aria-hidden="true">
+    <img class="art-leaf art-leaf-top-left" src="assets/Graphics/BG%20Leaf%201.png" alt="" decoding="async">
+    <img class="art-leaf art-leaf-top-right" src="assets/Graphics/BG%20Leaf%202.png" alt="" decoding="async">
+    <img class="art-leaf art-leaf-bottom-right" src="assets/Graphics/BG%20Leaf%201.png" alt="" decoding="async">
+    <img class="art-leopard" src="assets/Graphics/leopard%20graphic.png" alt="" decoding="async">
+  </div>
+
   <!-- Same logo + position as main page -->
   <div class="brand-group" aria-label="Top 92 2026 with Fresh 92.7 and sponsors">
     <img class="brand-station" src="assets/LOGOS/Fresh927%20Logo.png" alt="Fresh 92.7">
