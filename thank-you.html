@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Exo+2:wght@300;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root{
-      --bg:#08170d;
+      --bg:#4db563;
       --text:#fff9e6;
       --muted:#c4d2bd;
       --panel-bg:rgba(7,24,13,.94);
@@ -31,18 +31,6 @@
     }
 
     /* MATCH voting page background */
-    body::before{
-      content:'';
-      position:fixed;
-      inset:0;
-      background:
-        linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
-        url('assets/jungle-background-2026.png')
-          center / cover no-repeat;
-      transform:scaleX(-1);
-      z-index:-1;
-      pointer-events:none;
-    }
 
     /* DESKTOP LAYOUT:
        same 2-col grid as voting page:
@@ -59,24 +47,6 @@
     }
 
     /* MATCH overlay-logo from voting page */
-    .overlay-logo{
-      grid-column:1;
-      position:sticky;
-      top:4vh;
-      padding:12px 0 0;
-      height:auto;
-      display:flex;
-      flex-direction:column;
-      justify-content:flex-start;
-      align-items:flex-start;
-      padding-left:24px;
-      z-index:3;
-    }
-    .overlay-logo img{
-      width:min(31vw,390px);
-      height:auto;
-      filter:drop-shadow(0 8px 18px rgba(0,0,0,.45));
-    }
 
     /* Right column wrapper */
     main.wrap{
@@ -150,15 +120,7 @@
         display:block;
       }
 
-      .overlay-logo{
-        position:relative;
-        padding-left:16px;
-        padding-top:16px;
-      }
 
-      .overlay-logo img{
-        width:min(52vw,260px);
-      }
 
       main.wrap{
         margin:12px auto 32px;
@@ -177,12 +139,6 @@
     }
 
     @media (max-width:600px){
-      .overlay-logo{
-        padding-left:12px;
-      }
-      .overlay-logo img{
-        width:46vw;
-      }
       .thank-card h1{
         font-size:22px;
       }
@@ -191,36 +147,65 @@
       }
     }
 
-    .fresh-logo {
-        position: absolute;
-        left: 32%;
-        top: 17px;
-        width: 250px;
-        max-width: 50%;
-        height: auto;
-        z-index: 4;
-        pointer-events: none;
-    }
   
     /* 2026 jungle: colour treatments only; existing layout is preserved. */
     .thank-card h1{color:#ffe582}
     .btn:focus-visible{outline:2px solid #fff9e6;outline-offset:2px}
-
-    /* Portrait artwork for mobile; desktop keeps the landscape background. */
-    @media (max-width:600px){
-      body::before{
-        background-image:
-          linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
-          url('assets/jungle-background-mobile-2026.png');
+    /* 2026 supplied event, station and sponsor artwork. */
+    .brand-group{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      gap:14px;
+      width:min(88vw,390px);
+      margin:18px auto 6px;
+      position:relative;
+      z-index:3;
+    }
+    .brand-group img{
+      display:block;
+      height:auto;
+      object-fit:contain;
+    }
+    .brand-group .brand-station{width:42%}
+    .brand-group .brand-main{width:100%}
+    .brand-sponsors{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      align-items:center;
+      gap:22px;
+      width:74%;
+    }
+    .brand-sponsors img{
+      width:100%;
+      height:58px;
+    }
+    @media (min-width:901px){
+      .brand-group{
+        grid-column:1;
+        position:sticky;
+        top:4vh;
+        width:100%;
+        max-width:390px;
+        margin:0;
+        padding:18px 12px 6px 24px;
       }
+    }
+    @media (max-width:600px){
+      .brand-group{gap:10px}
+      .brand-sponsors img{height:48px}
     }
 </style>
 </head>
 <body>
   <!-- Same logo + position as main page -->
-  <div class="overlay-logo">
-    <!-- Use the same logo file used on index3... -->
-    <img src="assets/top92-jungle-logo-2026.png" alt="Top 92 2026 jungle logo">
+  <div class="brand-group" aria-label="Top 92 2026 with Fresh 92.7 and sponsors">
+    <img class="brand-station" src="assets/LOGOS/Fresh927%20Logo.png" alt="Fresh 92.7">
+    <img class="brand-main" src="assets/LOGOS/TOP%2092%202026%20logo.png" alt="Top 92 2026">
+    <div class="brand-sponsors">
+      <img src="assets/LOGOS/GUTSA%20logo.png" alt="GUTSA Gutta-Liner">
+      <img src="assets/LOGOS/HWY%20Hotel%20Logo.png" alt="HWY Hotel">
+    </div>
   </div>
 
   <main class="wrap">

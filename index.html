@@ -10,7 +10,7 @@
       --fresh-blue:#6aaf58;
       --purple:#f6d85d;
       --cyan:#f6d85d;
-      --bg:#08170d;
+      --bg:#4db563;
       --panel:#0b2113;
       --muted:#c4d2bd;
       --text:#fff9e6;
@@ -32,18 +32,6 @@
     }
 
     /* Background (matches voting page aesthetic) */
-    body::before{
-      content:'';
-      position:fixed;
-      inset:0;
-      background:
-        linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
-        url('assets/jungle-background-2026.png')
-          center / cover no-repeat;
-      transform:scaleX(-1);
-      z-index:-1;
-      pointer-events:none;
-    }
 
     header{display:none}
 
@@ -307,32 +295,8 @@
     }
 
     /* Overlay logo */
-    .overlay-logo{
-      display:flex;
-      justify-content:center;
-      align-items:center;
-      padding:18px 0 6px;
-      position:relative;
-      z-index:3;
-    }
 
-    .overlay-logo img{
-      width:min(60vw,560px);
-      height:auto;
-      filter:drop-shadow(0 8px 18px rgba(0,0,0,.45));
-    }
 
-    .overlay-logo .fresh-logo {
-      position: absolute;
-      left: 57%;
-      top: 17px;
-      transform: translateX(-50%);
-      width: 220px;
-      max-width: 50%;
-      height: auto;
-      z-index: 7;
-      pointer-events: none;
-    }
 
     /* Desktop: logo left, interface right */
     @media (min-width:1024px){
@@ -343,20 +307,6 @@
         align-items:start;
         align-content:start;
         grid-auto-rows:min-content;
-      }
-      .overlay-logo{
-        grid-column:1;
-        position:sticky;
-        top:4vh;
-        padding:12px 0 0;
-        height:auto;
-        flex-direction:column;
-        justify-content:flex-start;
-        align-items:flex-start;
-        padding-left:24px;
-      }
-      .overlay-logo img{
-        width:min(31vw,390px);
       }
       .wrap{
         grid-column:2;
@@ -371,23 +321,6 @@
     /* Mobile optimisations */
     @media (max-width:600px){
       .wrap{padding:12px}
-      .overlay-logo{
-        padding:12px 0 0;
-        flex-direction:column;
-        align-items:center;
-        gap:4px;
-      }
-      .overlay-logo .fresh-logo{
-        position:static;
-        transform:none;
-        width:42vw;
-        max-width:200px;
-        margin:0 auto 4px;
-      }
-      .overlay-logo img:not(.fresh-logo){
-        width:min(60vw,260px);
-        max-width:260px;
-      }
       .az-wrap{
         padding-left:0;
         padding-right:0;
@@ -539,7 +472,7 @@
     #shareCard{
       width:1080px;
       height:1920px;
-      background:url('Top 92 My 10 Favourites.jpeg') center/cover no-repeat;
+      background:var(--bg);
       color:#fff;
       position:absolute;
       left:0;
@@ -679,14 +612,49 @@
     .votes-header h3{color:#ffe582}
     .pill{background:rgba(246,216,93,.10)}
     .list,.selected{scrollbar-color:#6f8e52 #0b2113}
-
-    /* Portrait artwork for mobile; desktop keeps the landscape background. */
-    @media (max-width:600px){
-      body::before{
-        background-image:
-          linear-gradient(180deg, rgba(4,17,8,.12), rgba(4,17,8,.28)),
-          url('assets/jungle-background-mobile-2026.png');
+    /* 2026 supplied event, station and sponsor artwork. */
+    .brand-group{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      gap:14px;
+      width:min(88vw,390px);
+      margin:18px auto 6px;
+      position:relative;
+      z-index:3;
+    }
+    .brand-group img{
+      display:block;
+      height:auto;
+      object-fit:contain;
+    }
+    .brand-group .brand-station{width:42%}
+    .brand-group .brand-main{width:100%}
+    .brand-sponsors{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      align-items:center;
+      gap:22px;
+      width:74%;
+    }
+    .brand-sponsors img{
+      width:100%;
+      height:58px;
+    }
+    @media (min-width:1024px){
+      .brand-group{
+        grid-column:1;
+        position:sticky;
+        top:4vh;
+        width:100%;
+        max-width:390px;
+        margin:0;
+        padding:18px 12px 6px 24px;
       }
+    }
+    @media (max-width:600px){
+      .brand-group{gap:10px}
+      .brand-sponsors img{height:48px}
     }
 </style>
 
@@ -694,8 +662,13 @@
   <script src="songs-2025.js"></script>
 </head>
 <body>
-  <div class="overlay-logo">
-    <img src="assets/top92-jungle-logo-2026.png" alt="Top 92 2026 jungle logo">
+  <div class="brand-group" aria-label="Top 92 2026 with Fresh 92.7 and sponsors">
+    <img class="brand-station" src="assets/LOGOS/Fresh927%20Logo.png" alt="Fresh 92.7">
+    <img class="brand-main" src="assets/LOGOS/TOP%2092%202026%20logo.png" alt="Top 92 2026">
+    <div class="brand-sponsors">
+      <img src="assets/LOGOS/GUTSA%20logo.png" alt="GUTSA Gutta-Liner">
+      <img src="assets/LOGOS/HWY%20Hotel%20Logo.png" alt="HWY Hotel">
+    </div>
   </div>
 
   <main class="wrap">
