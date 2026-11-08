@@ -472,8 +472,8 @@
     #shareCard{
       width:1080px;
       height:1920px;
-      background:var(--bg);
-      color:#fff;
+      background:#4db563 url('assets/Share%20Card%20Story%20Graphic/TOP%2092%20STORY.png') center / cover no-repeat;
+      color:#07170c;
       position:absolute;
       left:0;
       top:0;
@@ -483,8 +483,8 @@
       justify-content:flex-start;
       text-align:center;
       gap:24px;
-      /* Keep all copy safely between the two red bars */
-      padding:440px 160px 320px;
+      /* Keep picks between the story header and bottom artwork. */
+      padding:460px 160px 430px;
       box-sizing:border-box;
     }
 
@@ -497,7 +497,8 @@
       display:flex;
       flex-direction:column;
       align-items:center;
-      gap:18px;
+      gap:14px;
+      flex-shrink:0;
     }
 
     #shareCard ol li{
@@ -507,18 +508,16 @@
     #shareCard .share-song{
       font-family:'Russo One','Exo 2',system-ui,sans-serif;
       font-weight:700;
-      font-size:clamp(34px, 3.8vw, 42px);
+      font-size:var(--share-song-size,38px);
       line-height:1.18;
-      text-shadow:0 4px 14px rgba(0,0,0,.55);
     }
 
     #shareCard .share-artist{
       font-family:'Exo 2',system-ui,sans-serif;
       font-weight:400;
-      font-size:clamp(22px, 2.6vw, 30px);
+      font-size:var(--share-artist-size,26px);
       line-height:1.18;
       margin-top:4px;
-      text-shadow:0 4px 14px rgba(0,0,0,.55);
     }
 
     #status{
@@ -1180,6 +1179,23 @@
 
     submitBtn.addEventListener('click', handleSubmit);
 
+    function fitShareCardText(card, shareList){
+      const cardStyle = getComputedStyle(card);
+      const availableHeight = card.clientHeight
+        - parseFloat(cardStyle.paddingTop)
+        - parseFloat(cardStyle.paddingBottom);
+      let songSize = 38;
+
+      card.style.setProperty('--share-song-size', songSize + 'px');
+      card.style.setProperty('--share-artist-size', '26px');
+
+      while (shareList.scrollHeight > availableHeight && songSize > 18){
+        songSize -= 1;
+        card.style.setProperty('--share-song-size', songSize + 'px');
+        card.style.setProperty('--share-artist-size', Math.round(songSize * 26 / 38) + 'px');
+      }
+    }
+
     async function handleSubmit(){
       if (submitBtn.disabled) return;
 
@@ -1218,6 +1234,8 @@
       let dataURL = '';
       try{
         card.style.display = 'flex';
+        await document.fonts.ready;
+        fitShareCardText(card, shareList);
         const canvas = await html2canvas(card, {
           backgroundColor:null,
           scale:1,
