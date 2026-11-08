@@ -231,8 +231,10 @@
     }
     .art-leopard{
       width:clamp(500px,56vw,960px);
-      left:clamp(-410px,-23vw,-220px);
-      bottom:-30px;
+      max-width:max(0px,calc((100svh - 340px) * 1.3125));
+      left:0;
+      bottom:0;
+      transform:translate(-41%,14%);
     }
     @media (max-width:1023px){
       .art-leopard{width:min(48vw,380px)}
@@ -255,8 +257,7 @@
       }
       .art-leopard{
         width:min(60vw,320px);
-        left:-55px;
-        bottom:-28px;
+        transform:translate(-18%,14%);
       }
     }
 </style>
