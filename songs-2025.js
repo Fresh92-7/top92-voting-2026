@@ -2,666 +2,1166 @@ window.SONGS_2025 = [
   {
     "title": "Comes And Goes",
     "artist": "KETTAMA",
-    "spotify": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r?si=9564a0827ea54a25"
+    "link": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r?si=9564a0827ea54a25"
   },
   {
     "title": "Movin' To The Sun",
     "artist": "HUGEL, Imael Angel And Ultra Nate",
-    "spotify": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2?si=14900a318e024810"
+    "link": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2?si=14900a318e024810"
   },
   {
     "title": "Satisfy",
     "artist": "Calvin Harris And Jazzy",
-    "spotify": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE?si=553511e4eb454c82"
+    "link": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE?si=553511e4eb454c82"
   },
   {
     "title": "On 2nite",
     "artist": "Silva Bumpa",
-    "spotify": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr?si=14a388b7eae04b3a"
+    "link": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr?si=14a388b7eae04b3a"
   },
   {
     "title": "Stay With Me Through The Night",
     "artist": "Tobiahs",
-    "spotify": "https://open.spotify.com/track/0pLMj9wDZPXjxJ3qEKM0rZ?si=5ea98c570bb5458d"
+    "link": "https://open.spotify.com/track/0pLMj9wDZPXjxJ3qEKM0rZ?si=5ea98c570bb5458d"
   },
   {
     "title": "What A Life",
     "artist": "FISHER Feat. Florence Arman",
-    "spotify": "https://open.spotify.com/track/17Yb6SqefJod2ANofe8kZg?si=78dffadb2afc45c7"
+    "link": "https://open.spotify.com/track/17Yb6SqefJod2ANofe8kZg?si=78dffadb2afc45c7"
   },
   {
     "title": "Seratonin",
     "artist": "James Hype",
-    "spotify": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C?si=6cdcfd02e50c4fa9"
+    "link": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C?si=6cdcfd02e50c4fa9"
   },
   {
     "title": "Free Your Mind",
     "artist": "Prospa And Cloonee",
-    "spotify": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa?si=1bb89653638e4771"
+    "link": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa?si=1bb89653638e4771"
   },
   {
     "title": "Wo, man",
     "artist": "Peggy Gou Feat. Ayra Starr",
-    "spotify": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS?si=00a466d6af2a4e39"
+    "link": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS?si=00a466d6af2a4e39"
   },
   {
     "title": "A Thousand Lies",
     "artist": "DJ HEARTSTRING, DMA'S And Saidah",
-    "spotify": "https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq?si=987ae2b16fc84204"
+    "link": "https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq?si=987ae2b16fc84204"
   },
   {
     "title": "Babydoll",
     "artist": "Ely Oaks",
-    "spotify": "https://open.spotify.com/track/5KBM1vB9oIFyw95YgAfRbN?si=2d969e24187b4091"
+    "link": "https://open.spotify.com/track/5KBM1vB9oIFyw95YgAfRbN?si=2d969e24187b4091"
   },
   {
     "title": "WannaCry",
     "artist": "Ninajirachi And Porter Robinson",
-    "spotify": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi?si=e79131db30ce4b69"
+    "link": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi?si=e79131db30ce4b69"
   },
   {
     "title": "Break My Heart",
     "artist": "Bag Raiders Feat. Meg Mac",
-    "spotify": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL?si=97b589b4afd84be3"
+    "link": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL?si=97b589b4afd84be3"
   },
   {
     "title": "Sad Girls",
     "artist": "Bebe Rexha And David Guetta",
-    "spotify": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot?si=2a7b7af9a0214f87"
+    "link": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot?si=2a7b7af9a0214f87"
   },
   {
     "title": "Terms And Conditions",
     "artist": "BL3SS",
-    "spotify": "https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY?si=2b6eea413ad646ef"
+    "link": "https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY?si=2b6eea413ad646ef"
   },
   {
     "title": "My Place",
     "artist": "Josh Baker And Poppy Baskcomb",
-    "spotify": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S?si=3c9e4dbc79a14216"
+    "link": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S?si=3c9e4dbc79a14216"
   },
   {
     "title": "Keep Seeing Things",
     "artist": "MEMBA And Alison Wonderland",
-    "spotify": "https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX?si=7627d48fbd954811"
+    "link": "https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX?si=7627d48fbd954811"
   },
   {
     "title": "So Good",
     "artist": "CamelPhat And Josh Gigante Feat. Kuuda",
-    "spotify": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY?si=60050458f6fd4c2b"
+    "link": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY?si=60050458f6fd4c2b"
   },
   {
     "title": "Push It",
     "artist": "Disco Lines And MAESIC Feat. Mason, Princess Superstar",
-    "spotify": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy?si=7c3f98b9ec814cb5"
+    "link": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy?si=7c3f98b9ec814cb5"
   },
   {
     "title": "Talk To You",
     "artist": "ANOTR Feat. 54 Ultra",
-    "spotify": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v?si=3cd2298fa06449c0"
+    "link": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v?si=3cd2298fa06449c0"
   },
   {
     "title": "Oracle",
     "artist": "Gorgon City Feat. Jem Cooke",
-    "spotify": "https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U?si=63890b49bf884365"
+    "link": "https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U?si=63890b49bf884365"
   },
   {
     "title": "Closure",
     "artist": "D.O.D Feat. Hayley May",
-    "spotify": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX?si=8940bf0d9b6649cb"
+    "link": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX?si=8940bf0d9b6649cb"
   },
   {
     "title": "New Religion",
     "artist": "Bebe Rexha And Faithless",
-    "spotify": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR?si=1c75e8d583754034"
+    "link": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR?si=1c75e8d583754034"
   },
   {
     "title": "World Away",
     "artist": "Gryffin, BUNT. And Inez",
-    "spotify": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0?si=59a407773a4549c9"
+    "link": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0?si=59a407773a4549c9"
   },
   {
     "title": "Don't Worry Baby",
     "artist": "Dom Dolla And Tiga",
-    "spotify": "https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4?si=b9612cd000a94df4"
+    "link": "https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4?si=b9612cd000a94df4"
   },
   {
     "title": "Forever",
     "artist": "Peking Duk Feat. Phantogram",
-    "spotify": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT?si=6b2469dd537a4d8b"
+    "link": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT?si=6b2469dd537a4d8b"
   },
   {
     "title": "Let Me Be In Your Arms",
     "artist": "Sonny Fodera Feat. Libianca",
-    "spotify": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi?si=79b773a99b944f50"
+    "link": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi?si=79b773a99b944f50"
   },
   {
     "title": "I Like",
     "artist": "Marlon Hoffstadt And southstar",
-    "spotify": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt?si=8eb513f7bf854b81"
+    "link": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt?si=8eb513f7bf854b81"
   },
   {
     "title": "Make You Fight",
     "artist": "Chris Lake And ATRIP",
-    "spotify": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD?si=f556ffd2e27f444c"
+    "link": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD?si=f556ffd2e27f444c"
   },
   {
     "title": "Happiness Is So Sad",
     "artist": "Swedish House Mafia And Lykke Li",
-    "spotify": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD?si=ff1a345241a6493c"
+    "link": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD?si=ff1a345241a6493c"
   },
   {
     "title": "All The Time",
     "artist": "John Summit And The Chainsmokers Feat. Ilsey",
-    "spotify": "https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w?si=29a4093ed96144df"
+    "link": "https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w?si=29a4093ed96144df"
   },
   {
     "title": "Just The Way You Are",
     "artist": "Milky And Mall Grab",
-    "spotify": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt?si=f0fd770cf7254901"
+    "link": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt?si=f0fd770cf7254901"
   },
   {
     "title": "I Don't Wanna Hurt You",
     "artist": "Clean Bandit And Biig Piig",
-    "spotify": "https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY?si=4295a47824c849e7"
+    "link": "https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY?si=4295a47824c849e7"
   },
   {
     "title": "Me And U (Sammy Virji Remix)",
     "artist": "Tems",
-    "spotify": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013?si=97c0c6f64e01432e"
+    "link": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013?si=97c0c6f64e01432e"
   },
   {
     "title": "Come To Life",
     "artist": "Cassian And AR/CO",
-    "spotify": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW?si=b3ddba315c964602"
+    "link": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW?si=b3ddba315c964602"
   },
   {
     "title": "Weekend",
     "artist": "MEDUZA And Khalid",
-    "spotify": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG?si=6b96f08d5d10456f"
+    "link": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG?si=6b96f08d5d10456f"
   },
   {
     "title": "Love Tonight",
     "artist": "BUNT.",
-    "spotify": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf?si=2af81af658fa4b50"
+    "link": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf?si=2af81af658fa4b50"
   },
   {
     "title": "More! More! More!",
     "artist": "Becky Hill",
-    "spotify": "https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo?si=853c1fabf5734c59"
+    "link": "https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo?si=853c1fabf5734c59"
   },
   {
     "title": "Good Girl",
     "artist": "Cloonee And Prospa Feat. Tristan Henry",
-    "spotify": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p?si=0c4e2c4682bf4590"
+    "link": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p?si=0c4e2c4682bf4590"
   },
   {
     "title": "Talk To Me, Zara",
     "artist": "Robyn And Zara Larsson",
-    "spotify": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk?si=c3371f100cf04c1b"
+    "link": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk?si=c3371f100cf04c1b"
   },
   {
     "title": "Hype",
     "artist": "Darude And Mashd N Kutcher",
-    "spotify": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw?si=ff58f00c4cc0444a"
+    "link": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw?si=ff58f00c4cc0444a"
   },
   {
     "title": "Car Crash",
     "artist": "jigitz And Charlotte Plank",
-    "spotify": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA?si=3a22de4dafd448ec"
+    "link": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA?si=3a22de4dafd448ec"
   },
   {
     "title": "Thumbs",
     "artist": "jigitz Feat. Lamb",
-    "spotify": "https://open.spotify.com/track/5UBJLjnWWPU2dPwhfyVYqy?si=5c8668792e884135"
+    "link": "https://open.spotify.com/track/5UBJLjnWWPU2dPwhfyVYqy?si=5c8668792e884135"
   },
   {
     "title": "U Know",
     "artist": "NOTION And X CLUB.",
-    "spotify": "https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE?si=b95822da278e4dbf"
+    "link": "https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE?si=b95822da278e4dbf"
   },
   {
     "title": "Actin' Tough",
     "artist": "Dean Turnley",
-    "spotify": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM?si=d85fac8fc9614f84"
+    "link": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM?si=d85fac8fc9614f84"
   },
   {
     "title": "Everlasting",
     "artist": "Armin van Buuren And SACHA",
-    "spotify": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91?si=83e54605eef047e1"
+    "link": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91?si=83e54605eef047e1"
   },
   {
     "title": "When The Rain Begins To Fall",
     "artist": "Soul Wun",
-    "spotify": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE?si=c3669947c18d459c"
+    "link": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE?si=c3669947c18d459c"
   },
   {
     "title": "Bad Angel",
     "artist": "Anyma And LISA",
-    "spotify": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ?si=f6ced9d3c7074f46"
+    "link": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ?si=f6ced9d3c7074f46"
   },
   {
     "title": "Nothing Left",
     "artist": "Twin Diplomacy And Arlo Feat. Emi Grace",
-    "spotify": "https://open.spotify.com/track/5hSday9Ki5RhBOjIGErYzJ?si=f1ef7ade69864066"
+    "link": "https://open.spotify.com/track/5hSday9Ki5RhBOjIGErYzJ?si=f1ef7ade69864066"
   },
   {
     "title": "Hey Everybody",
     "artist": "Kolter",
-    "spotify": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755?si=fab822f2e70d460f"
+    "link": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755?si=fab822f2e70d460f"
   },
   {
     "title": "Whatever Turns You On",
     "artist": "Axwell Feat. Bonn ",
-    "spotify": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk?si=fbd607a800b94312"
+    "link": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk?si=fbd607a800b94312"
   },
   {
     "title": "Dance Dance Dance!",
     "artist": "Barry Can't Swim",
-    "spotify": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ?si=fa88059b7be84ab8"
+    "link": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ?si=fa88059b7be84ab8"
   },
   {
     "title": "Silver Lines",
     "artist": "ANOTR Feat. Emily Warren",
-    "spotify": "https://open.spotify.com/track/7pJYaiuMMGAwhj54H0M295?si=ec3e88c9dd3f4846"
+    "link": "https://open.spotify.com/track/7pJYaiuMMGAwhj54H0M295?si=ec3e88c9dd3f4846"
   },
   {
     "title": "Say Something",
     "artist": "Sonny Fodera And Becky Hill",
-    "spotify": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y?si=1b670f7c579d48e9"
+    "link": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y?si=1b670f7c579d48e9"
   },
   {
     "title": "Like It",
     "artist": "ANOTR And 3DDY",
-    "spotify": "https://open.spotify.com/track/4ZUblWKDSGW8DL4KtZWcta?si=c33e491a17024c85"
+    "link": "https://open.spotify.com/track/4ZUblWKDSGW8DL4KtZWcta?si=c33e491a17024c85"
   },
   {
     "title": "Love You More",
     "artist": "Rudimental",
-    "spotify": "https://open.spotify.com/track/2JT8Ey1EajEe1VNgBzl9Ut?si=b329701204c941ee"
+    "link": "https://open.spotify.com/track/2JT8Ey1EajEe1VNgBzl9Ut?si=b329701204c941ee"
   },
   {
     "title": "She's A Devil",
     "artist": "Layton Giordani And AR/CO",
-    "spotify": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH?si=dbf881fed0344f51"
+    "link": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH?si=dbf881fed0344f51"
   },
   {
     "title": "Zone",
     "artist": "MK Feat. Poppy Baskcomb",
-    "spotify": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr?si=42dde382b29f430f"
+    "link": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr?si=42dde382b29f430f"
   },
   {
     "title": "Favour",
     "artist": "FISHER And Tones And I",
-    "spotify": "https://open.spotify.com/track/3dltnNdpRDtPMydcL8eMSR?si=d5d8451846a34f4f"
+    "link": "https://open.spotify.com/track/3dltnNdpRDtPMydcL8eMSR?si=d5d8451846a34f4f"
   },
   {
     "title": "Rock The Rhythm (I Like That)",
     "artist": "Odd Mob, Richard Vission, Static Revenger Feat. Luciana",
-    "spotify": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2?si=708155c46326450d"
+    "link": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2?si=708155c46326450d"
   },
   {
     "title": "Sweet Nothings",
     "artist": "oskar med k",
-    "spotify": "https://open.spotify.com/track/7JEoTCshuQE5kGPti4YLS0?si=ce06e10b8936435b"
+    "link": "https://open.spotify.com/track/7JEoTCshuQE5kGPti4YLS0?si=ce06e10b8936435b"
   },
   {
     "title": "The Ceiling",
     "artist": "Westend Feat. Olivia Sebastianelli",
-    "spotify": "https://open.spotify.com/track/08jOMh0SuNltPqEBuMd0Nb?si=5e25c329eca64a34"
+    "link": "https://open.spotify.com/track/08jOMh0SuNltPqEBuMd0Nb?si=5e25c329eca64a34"
   },
   {
     "title": "Come Together",
     "artist": "Andy C Feat. Mali-Koa",
-    "spotify": "https://open.spotify.com/track/5MffQEvUdNAaflrOT8ymCe?si=810b18fc9a6f499d"
+    "link": "https://open.spotify.com/track/5MffQEvUdNAaflrOT8ymCe?si=810b18fc9a6f499d"
   },
   {
     "title": "DNA (Ian Asher Remix)",
     "artist": "Empire Of The Sun",
-    "spotify": "https://open.spotify.com/track/0D09VKIBmznknpXTXPTKrY?si=b318acfa188a4e3b"
+    "link": "https://open.spotify.com/track/0D09VKIBmznknpXTXPTKrY?si=b318acfa188a4e3b"
   },
   {
     "title": "Let Me Forget You",
     "artist": "Warriner And LORYN",
-    "spotify": "https://open.spotify.com/track/0rsjFcWbyP89pyJDUfCNQQ"
+    "link": "https://open.spotify.com/track/0rsjFcWbyP89pyJDUfCNQQ"
   },
   {
     "title": "Do I Like You Like That",
     "artist": "Justin Jay And EVA",
-    "spotify": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B?si=dd3d358905e84642"
+    "link": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B?si=dd3d358905e84642"
   },
   {
     "title": "Feel Again",
     "artist": "Sonny Fodera",
-    "spotify": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K?si=94d590de24034dfa"
+    "link": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K?si=94d590de24034dfa"
   },
   {
     "title": "Dumb Decisions",
     "artist": "Ely Oaks And LAVINIA",
-    "spotify": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf?si=daecf2f339f44d92"
+    "link": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf?si=daecf2f339f44d92"
   },
   {
     "title": "Beautiful",
     "artist": "Anyma And Joji",
-    "spotify": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2?si=e8c3f146a7aa46c3"
+    "link": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2?si=e8c3f146a7aa46c3"
   },
   {
     "title": "Just A Little Bit More",
     "artist": "Mau P",
-    "spotify": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q?si=854e23079342490d"
+    "link": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q?si=854e23079342490d"
   },
   {
     "title": "Hands On Me",
     "artist": "Becky Hill",
-    "spotify": "https://open.spotify.com/track/0fxIb3SaDaKk0drIh7PVd8?si=3c448cc3ebfb455d"
+    "link": "https://open.spotify.com/track/0fxIb3SaDaKk0drIh7PVd8?si=3c448cc3ebfb455d"
   },
   {
     "title": "Careful",
     "artist": "D.O.D And Izzy Bizu",
-    "spotify": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt?si=6707738c39dc4a09"
+    "link": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt?si=6707738c39dc4a09"
   },
   {
     "title": "Loose Pt. 3",
     "artist": "WILL K, JAY1 And Ms Banks",
-    "spotify": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4?si=ce68767aeb4247a1"
+    "link": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4?si=ce68767aeb4247a1"
   },
   {
     "title": "Dream About U",
     "artist": "bbyclose",
-    "spotify": "https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs?si=d46064b7ff704cf3"
+    "link": "https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs?si=d46064b7ff704cf3"
   },
   {
     "title": "Fade",
     "artist": "Alesso And Pendulum",
-    "spotify": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi?si=15783d5473d840ae"
+    "link": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi?si=15783d5473d840ae"
   },
   {
     "title": "Side to Side",
     "artist": "nate band",
-    "spotify": "https://open.spotify.com/track/5oWdQV5ydvmB4uwDgJrDov?si=455e1d84f2014fe2"
+    "link": "https://open.spotify.com/track/5oWdQV5ydvmB4uwDgJrDov?si=455e1d84f2014fe2"
   },
   {
     "title": "Never Alone",
     "artist": "Odd Mob Feat. Lizzy Land",
-    "spotify": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS?si=ef5397d219934103"
+    "link": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS?si=ef5397d219934103"
   },
   {
     "title": "Alive (Alok Remix)",
     "artist": "Empire Of The Sun",
-    "spotify": "https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE?si=208cd366341c4f8a"
+    "link": "https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE?si=208cd366341c4f8a"
   },
   {
     "title": "Entwined",
     "artist": "Sub Focus And Grimes",
-    "spotify": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1?si=d35a77c903ec45b6"
+    "link": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1?si=d35a77c903ec45b6"
   },
   {
     "title": "Don't Go (Don't Leave)",
     "artist": "Tre Reynolds",
-    "spotify": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu?si=48551b3d01134194"
+    "link": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu?si=48551b3d01134194"
   },
   {
     "title": "On The Ground",
     "artist": "oskar med k",
-    "spotify": "https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi?si=52f4c1269ea14b6f"
+    "link": "https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi?si=52f4c1269ea14b6f"
   },
   {
     "title": "I Run (David Guetta Remix)",
     "artist": "HAVEN. Feat. Kaitlin Aragon",
-    "spotify": "https://open.spotify.com/track/43psRuTeLgq7wHLXahgkO5?si=49ca00b780554dad"
+    "link": "https://open.spotify.com/track/43psRuTeLgq7wHLXahgkO5?si=49ca00b780554dad"
   },
   {
     "title": "Long Jacket",
     "artist": "Chris Lake, Chris Lorenzo, Kenny Beats, Cake",
-    "spotify": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR?si=20d137ee91ed45a0"
+    "link": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR?si=20d137ee91ed45a0"
   },
   {
     "title": "Spellbound",
     "artist": "oskar med k",
-    "spotify": "https://open.spotify.com/track/5Bvm3jjiMal1ME0flasrBV?si=7f5f4f98ce574035"
+    "link": "https://open.spotify.com/track/5Bvm3jjiMal1ME0flasrBV?si=7f5f4f98ce574035"
   },
   {
     "title": "Where Is My Husband! (David Guetta and Hypaton Remix)",
     "artist": "RAYE",
-    "spotify": "https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C?si=67dbc51f39be4613"
+    "link": "https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C?si=67dbc51f39be4613"
   },
   {
     "title": "Whisper",
     "artist": "Joel Corry",
-    "spotify": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39?si=b3bed5b32c6344e3"
+    "link": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39?si=b3bed5b32c6344e3"
   },
   {
     "title": "Trust",
     "artist": "Clementine Douglas",
-    "spotify": "https://open.spotify.com/track/6vi88Z0r5HFoW635ezAPnO?si=94c96116487b4389"
+    "link": "https://open.spotify.com/track/6vi88Z0r5HFoW635ezAPnO?si=94c96116487b4389"
   },
   {
     "title": "Be Mine",
     "artist": "James Hype",
-    "spotify": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd?si=59baaa0a6fe14111"
+    "link": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd?si=59baaa0a6fe14111"
   },
   {
     "title": "The Fate of Ophelia (The Chainsmokers Remix)",
     "artist": "Taylor Swift",
-    "spotify": "https://open.spotify.com/track/3JNaLxAymiSUMrmjOarjeo?si=1ab59dca3ff24c05"
+    "link": "https://open.spotify.com/track/3JNaLxAymiSUMrmjOarjeo?si=1ab59dca3ff24c05"
   },
   {
     "title": "One Question",
     "artist": "Cloonee And Groove Theory",
-    "spotify": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY?si=f6ea5fd1e354445a"
+    "link": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY?si=f6ea5fd1e354445a"
   },
   {
     "title": "Danceteria Afterhours",
     "artist": "Madonna & Charli XCX",
-    "spotify": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE?si=214c08692428415d"
+    "link": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE?si=214c08692428415d"
   },
   {
     "title": "Set Me Free",
     "artist": "Armin van Buuren And SACHA",
-    "spotify": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi?si=f428359aab734829"
+    "link": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi?si=f428359aab734829"
   },
   {
     "title": "Echo",
     "artist": "The Chainsmokers Feat. Oaks",
-    "spotify": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X?si=3e16b74fbab9464d"
+    "link": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X?si=3e16b74fbab9464d"
   },
   {
     "title": "Get Away",
     "artist": "Kungs And Boys Noize",
-    "spotify": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa?si=8e0e44c9916b4666"
+    "link": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa?si=8e0e44c9916b4666"
   },
   {
     "title": "On A Wave",
     "artist": "East End Dubs And Jazzy",
-    "spotify": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6?si=31de6510f7ba44d7"
+    "link": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6?si=31de6510f7ba44d7"
   },
   {
     "title": "Coming Up (It's Dare)",
     "artist": "Odd Mob And OMNOM: HYPERBEAM",
-    "spotify": "https://open.spotify.com/track/08dSDC0SUtbWqKsknZhLFt?si=ff7f63ec8b90494b"
+    "link": "https://open.spotify.com/track/08dSDC0SUtbWqKsknZhLFt?si=ff7f63ec8b90494b"
   },
   {
     "title": "Release The Pressure",
     "artist": "Calvin Harris And Kasabian",
-    "spotify": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9?si=59e33f2d31ae42e4"
+    "link": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9?si=59e33f2d31ae42e4"
   },
   {
     "title": "Rain",
     "artist": "FISHER",
-    "spotify": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ?si=17a7991387ce4b5c"
+    "link": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ?si=17a7991387ce4b5c"
   },
   {
     "title": "Rollin",
     "artist": "PNAU and Meduza",
-    "spotify": "https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL?si=ffeaa780d5004950"
+    "link": "https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL?si=ffeaa780d5004950"
   },
   {
     "title": "Burberry",
     "artist": "Charlotte Plank, NOTION",
-    "spotify": "https://open.spotify.com/track/4bFf6e6uZWToM01hC4VmOp?si=1a6e5629a3a543c1"
+    "link": "https://open.spotify.com/track/4bFf6e6uZWToM01hC4VmOp?si=1a6e5629a3a543c1"
   },
   {
     "title": "I Cannot",
     "artist": "Anti Up",
-    "spotify": "https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn?si=319ff5f7c80c4aaf"
+    "link": "https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn?si=319ff5f7c80c4aaf"
   },
   {
     "title": "Destiny",
     "artist": "Alesso And SACHA",
-    "spotify": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB?si=e8e3a02ef6a74b4e"
+    "link": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB?si=e8e3a02ef6a74b4e"
   },
   {
     "title": "Can't Deny It",
     "artist": "Jazzy And Spriitzz",
-    "spotify": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ?si=e7004288defd473d"
+    "link": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ?si=e7004288defd473d"
   },
   {
     "title": "Dive Into Me",
     "artist": "Alok And Khalid",
-    "spotify": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
+    "link": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
   },
   {
     "title": "Talk Of The Town",
     "artist": "Fred again.., Sammy Virji And Reggie",
-    "spotify": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF?si=93220904be8a41dd"
+    "link": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF?si=93220904be8a41dd"
   },
   {
     "title": "Stateside + Zara Larsson",
     "artist": "PinkPantheress Feat. Zara Larsson",
-    "spotify": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId?si=26005ad2bc8f4304"
+    "link": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId?si=26005ad2bc8f4304"
   },
   {
     "title": "I Will Find You",
     "artist": "BUNT.",
-    "spotify": "https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf?si=e8a84b1797ef4034"
+    "link": "https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf?si=e8a84b1797ef4034"
   },
   {
     "title": "Free (You Got To Live)",
     "artist": "HUGEL And Ultra Nate",
-    "spotify": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO?si=7cdb2b7ae0fc4e8d"
+    "link": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO?si=7cdb2b7ae0fc4e8d"
   },
   {
     "title": "You Gonna Want Me (I Know)",
     "artist": "Tiga Vs. Meduza",
-    "spotify": "https://open.spotify.com/track/5hPaS40DXaCcCcT11SSM6t?si=7e57b7b7d2d84306"
+    "link": "https://open.spotify.com/track/5hPaS40DXaCcCcT11SSM6t?si=7e57b7b7d2d84306"
   },
   {
     "title": "Mitsubishi",
     "artist": "Gorgon City Feat. MUKI",
-    "spotify": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H?si=57fa7537a9204f3a"
+    "link": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H?si=57fa7537a9204f3a"
   },
   {
     "title": "Habits (Stay High) (Hippie Sabotage Remix)",
     "artist": "Tove Lo",
-    "spotify": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf?si=24075f479dd941a9"
+    "link": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf?si=24075f479dd941a9"
   },
   {
     "title": "Fire Fire",
     "artist": "Shimza, AR/CO And Kasango",
-    "spotify": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ?si=b3e3cae874024340"
+    "link": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ?si=b3e3cae874024340"
   },
   {
     "title": "My Loving",
     "artist": "Sonny Fodera And Chrystal",
-    "spotify": "https://open.spotify.com/track/0lWVpy4hnIku1T9LPoooZD?si=362fd0be6d504958"
+    "link": "https://open.spotify.com/track/0lWVpy4hnIku1T9LPoooZD?si=362fd0be6d504958"
   },
   {
     "title": "Summer 91 (Looking Back)",
     "artist": "Noizu",
-    "spotify": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL?si=d42fd4a8c34b4226"
+    "link": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL?si=d42fd4a8c34b4226"
   },
   {
     "title": "Another You",
     "artist": "Armin van Buuren Feat. Mr. Probz",
-    "spotify": "https://open.spotify.com/track/7MGwIl4xCFZMIjL7S5NFZe?si=3cf6488233ea4357"
+    "link": "https://open.spotify.com/track/7MGwIl4xCFZMIjL7S5NFZe?si=3cf6488233ea4357"
   },
   {
     "title": "Heaven",
     "artist": "Alison Wonderland Feat. Ninajirachi",
-    "spotify": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw?si=b67e4d2c94e14503"
+    "link": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw?si=b67e4d2c94e14503"
   },
   {
     "title": "Right Here",
     "artist": "R3HAB And RHODES",
-    "spotify": "https://open.spotify.com/track/7JxufZObN8xKDnEUmd1uK5?si=b3bc0bd97d5f4d87"
+    "link": "https://open.spotify.com/track/7JxufZObN8xKDnEUmd1uK5?si=b3bc0bd97d5f4d87"
   },
   {
     "title": "Unconditional",
     "artist": "NOTION And Nate Sib",
-    "spotify": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl?si=0cc276e2a0cd4e27"
+    "link": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl?si=0cc276e2a0cd4e27"
   },
   {
     "title": "Paradise",
     "artist": "LMNT 115 Feat. Daya",
-    "spotify": "https://open.spotify.com/track/7faqSCbULashpPcq3Mln4P?si=0e8705a329894ecf"
+    "link": "https://open.spotify.com/track/7faqSCbULashpPcq3Mln4P?si=0e8705a329894ecf"
   },
   {
     "title": "XTC",
     "artist": "Alison Wonderland And Whyte Fang",
-    "spotify": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR?si=0662e19343494f2f"
+    "link": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR?si=0662e19343494f2f"
   },
   {
     "title": "Release Me",
     "artist": "KSMBA",
-    "spotify": "https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns?si=485844bf841f4dd9"
+    "link": "https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns?si=485844bf841f4dd9"
   },
   {
     "title": "I Did You Wrong",
     "artist": "Harry Hayes",
-    "spotify": "https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP?si=0513dc43f8a8415b"
+    "link": "https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP?si=0513dc43f8a8415b"
   },
   {
     "title": "Buster",
     "artist": "Djanaba And Hylander",
-    "spotify": "https://open.spotify.com/track/4sysYECdYekuLUXThVgOf7?si=303effce6d2b4656"
+    "link": "https://open.spotify.com/track/4sysYECdYekuLUXThVgOf7?si=303effce6d2b4656"
   },
   {
     "title": "Hot Off The Press",
     "artist": "WILL K",
-    "spotify": "https://open.spotify.com/track/5QvU5Fm4JqHuHBTQa0POuP?si=b34926d01fe94c4c"
+    "link": "https://open.spotify.com/track/5QvU5Fm4JqHuHBTQa0POuP?si=b34926d01fe94c4c"
   },
   {
     "title": "Spice",
     "artist": "Waxx Off And Lowbrain",
-    "spotify": "https://open.spotify.com/track/2rj3FGuFg6zdcpvI0jdJsO?si=a5507150587045ba"
+    "link": "https://open.spotify.com/track/2rj3FGuFg6zdcpvI0jdJsO?si=a5507150587045ba"
   },
   {
     "title": "How Could I Forget You",
     "artist": "Motez Feat. DOOLIE",
-    "spotify": "https://open.spotify.com/track/2LY4fjl0Z0xRMC6Q6XrXpN?si=be11293c11e44718"
+    "link": "https://open.spotify.com/track/2LY4fjl0Z0xRMC6Q6XrXpN?si=be11293c11e44718"
   },
   {
     "title": "I Miss The Times",
     "artist": "Ordley",
-    "spotify": "https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5?si=3de08ee266284bb1"
+    "link": "https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5?si=3de08ee266284bb1"
   },
   {
     "title": "Pull Over",
     "artist": "Charlie Shell And Lemtom",
-    "spotify": "https://open.spotify.com/track/3iDYJPlzNgX2MnLvvKTceU?si=be8e64708e8b4988"
+    "link": "https://open.spotify.com/track/3iDYJPlzNgX2MnLvvKTceU?si=be8e64708e8b4988"
   },
   {
     "title": "Hotness!!!",
     "artist": "Cat and Calmell",
-    "spotify": "https://open.spotify.com/track/0bUIvOKt3GFM6MnAfwraEa?si=0a342861230b42a3"
+    "link": "https://open.spotify.com/track/0bUIvOKt3GFM6MnAfwraEa?si=0a342861230b42a3"
   },
   {
     "title": "Sandstorm - Dimension Remix",
     "artist": "Darude and Dimension",
-    "spotify": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq?si=05dabfe05a53464a"
+    "link": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq?si=05dabfe05a53464a"
   },
   {
     "title": "Where You Really Come From",
     "artist": "Tobiahs and VV-Ace",
-    "spotify": "https://open.spotify.com/track/0Oiwu7DlTKNZHnrI5muVTK?si=f5dd4606a0424a5d"
+    "link": "https://open.spotify.com/track/0Oiwu7DlTKNZHnrI5muVTK?si=f5dd4606a0424a5d"
   },
   {
     "title": "Orla",
     "artist": "Nimino",
-    "spotify": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
+    "link": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
   },
   {
     "title": "Eat Me Better",
     "artist": "Nimino",
-    "spotify": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu?si=9a598e5a49194db9"
+    "link": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu?si=9a598e5a49194db9"
+  },
+  {
+    "title": "Need Your Love",
+    "artist": "IVANA",
+    "link": "https://open.spotify.com/track/04E4i06bBUzb7wWAaRdl9X"
+  },
+  {
+    "title": "Maroubra Villain",
+    "artist": "Kobie Dee Feat. Hellcat Speedracer",
+    "link": "https://open.spotify.com/track/1bDwBMX4ssdrvWOmTi63Xz"
+  },
+  {
+    "title": "It Gets Better",
+    "artist": "Dada Jones And Badger",
+    "link": "https://open.spotify.com/track/1I0knbo2FURefTBEQrsz8I"
+  },
+  {
+    "title": "Here 4 U",
+    "artist": "NOTD",
+    "link": "https://open.spotify.com/track/2mDeViKKUN1JnrH4492gmw"
+  },
+  {
+    "title": "A Feeling I Miss",
+    "artist": "Cassian Feat. Matt Ryder",
+    "link": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
+  },
+  {
+    "title": "Designer",
+    "artist": "Mason Flint",
+    "link": "https://open.spotify.com/track/49J9h7NJkCw4oMt1CCtr6Y"
+  },
+  {
+    "title": "Dr Feel Right (Malugi Remix)",
+    "artist": "Josh Baker Feat. The Egyptian Lover And Rome Fortune",
+    "link": "https://open.spotify.com/track/62z3XaYGERJXPzkqrmlLwG"
+  },
+  {
+    "title": "Guardian Angel",
+    "artist": "Dimension Feat. Karen Harding",
+    "link": "https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid"
+  },
+  {
+    "title": "Hardstyle 2",
+    "artist": "Fred again.., KETTAMA And Shady Nasty",
+    "link": "https://open.spotify.com/track/3CdOgv5Bz3kSGb79jHahkJ"
+  },
+  {
+    "title": "The One",
+    "artist": "CamelPhat And Josh Gigante",
+    "link": "https://open.spotify.com/track/0KIhLAkHfL9fvgn0yy1qsU"
+  },
+  {
+    "title": "Waiting",
+    "artist": "NOTION And Willow Kayne",
+    "link": "https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk"
+  },
+  {
+    "title": "Dancing In The Leaves",
+    "artist": "What So Not And Buunshin Feat. Lucy Lucy",
+    "link": "https://open.spotify.com/track/3nHjEuNtJ0fmAD2EljdKlz"
+  },
+  {
+    "title": "Hold Close",
+    "artist": "Kito Feat. Mallrat And jamesjamesjames",
+    "link": "https://open.spotify.com/track/1MwRCn8CZoPeJVubSHPQdU"
+  },
+  {
+    "title": "Catch",
+    "artist": "Will Sparks",
+    "link": "https://open.spotify.com/track/46dcodmxsxDxYfRiAkkAth"
+  },
+  {
+    "title": "Work This Out",
+    "artist": "Ukiyo Feat. Eluera, Will Hyde And Slowboy",
+    "link": "https://open.spotify.com/track/0Llbh2ZpZSZxtrNXHcKVN4"
+  },
+  {
+    "title": "For The Night",
+    "artist": "Hermitude Feat. DEVAURA",
+    "link": "https://open.spotify.com/track/20PdjM22Hf3yVxZrOwe5pn"
+  },
+  {
+    "title": "Damaged Goods",
+    "artist": "Confidence Man",
+    "link": "https://open.spotify.com/track/6jHzqPI9P3C4eTiHlbpCWb"
+  },
+  {
+    "title": "Faded",
+    "artist": "HAYLA Feat. Nelly Furtado",
+    "link": "https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt"
+  },
+  {
+    "title": "Plastic",
+    "artist": "2Touch",
+    "link": "https://open.spotify.com/track/6rDcgm3kRyQpQXxnbmBddJ"
+  },
+  {
+    "title": "Rest Easy",
+    "artist": "nimino",
+    "link": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
+  },
+  {
+    "title": "That Boy's Not Nice",
+    "artist": "Memphis LK",
+    "link": "https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd"
+  },
+  {
+    "title": "Bring Me To Life",
+    "artist": "Tiesto Feat. FORS",
+    "link": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
+  },
+  {
+    "title": "Elevate",
+    "artist": "Sub Focus",
+    "link": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
+  },
+  {
+    "title": "I Came to Party",
+    "artist": "Matty Loco",
+    "link": "https://open.spotify.com/track/0kfMLb2B8sJlUO2fMCLRKg"
+  },
+  {
+    "title": "Sideways",
+    "artist": "Sweatbaby",
+    "link": "https://open.spotify.com/track/4jsoXc8yqfnNJKfxNRkACs"
+  },
+  {
+    "title": "Deeper",
+    "artist": "Disclosure And Leon Thomas",
+    "link": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+  },
+  {
+    "title": "Body",
+    "artist": "Levi, Future Cartel and MVRIN",
+    "link": "https://open.spotify.com/track/2Xx2mqjYK9jpAALGRvjUOq"
+  },
+  {
+    "title": "I Wanna Know",
+    "artist": "Fish56Octagon Feat. Abi Flynn",
+    "link": "https://open.spotify.com/track/6N54Zt6KSo93e5FJY6gfPI"
+  },
+  {
+    "title": "Kissin My Friends",
+    "artist": "Marshmello And INJI",
+    "link": "https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X"
+  },
+  {
+    "title": "Bad Intentions",
+    "artist": "Ben Gerrans",
+    "link": "https://open.spotify.com/track/0WaTftbSO6sh9yJUcy0jJj"
+  },
+  {
+    "title": "Lost",
+    "artist": "Vintage Culture And Gabss",
+    "link": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
+  },
+  {
+    "title": "Only U",
+    "artist": "Open Till L8 And Joel Fletcher",
+    "link": "https://open.spotify.com/track/2r2fxlWpJRtiVPoOosaUzh"
+  },
+  {
+    "title": "Peaches",
+    "artist": "Young Franco Feat. Charlotte Plank",
+    "link": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
+  },
+  {
+    "title": "567AM",
+    "artist": "BL3SS",
+    "link": "https://open.spotify.com/track/0FmjpWNZxjix5nPponOC2d"
+  },
+  {
+    "title": "Plush",
+    "artist": "DJ Seinfeld",
+    "link": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
+  },
+  {
+    "title": "Embers",
+    "artist": "Robin Schulz",
+    "link": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
+  },
+  {
+    "title": "Beat Is Jumping",
+    "artist": "Morgan Seatree And Carla Monroe",
+    "link": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
+  },
+  {
+    "title": "Out Of My Mind",
+    "artist": "Bag Raiders",
+    "link": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
+  },
+  {
+    "title": "Think About Us (CYRIL Remix)",
+    "artist": "Sonny Fodera, D.O.D And Poppy Baskcomb",
+    "link": "https://open.spotify.com/track/0rWz0a1WdtfjuHtllM2R11"
+  },
+  {
+    "title": "Bad Thoughts",
+    "artist": "Mincy And Soma",
+    "link": "https://open.spotify.com/track/469Oe8vahhJpCyC0wk09He"
+  },
+  {
+    "title": "Brazil",
+    "artist": "Switch Disco And Declan McKenna",
+    "link": "https://open.spotify.com/track/5nXZy0eMfjapdgXc3GPi22"
+  },
+  {
+    "title": "Delete (horsegiirL Remix)",
+    "artist": "Ninajirachi",
+    "link": "https://open.spotify.com/track/3OqV1YnTNsKMwphZw46k5M"
+  },
+  {
+    "title": "Stay The Night",
+    "artist": "MUTUALS",
+    "link": "https://open.spotify.com/track/34ld1eOzsXP4bDoXbxBudP"
+  },
+  {
+    "title": "You And Me (Always Forever)",
+    "artist": "Snakehips And Cults",
+    "link": "https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK"
+  },
+  {
+    "title": "Hold Me Down",
+    "artist": "Mason Flint",
+    "link": "https://open.spotify.com/track/6hLIUDzLOZECZ5iEmTYld5"
+  },
+  {
+    "title": "Over You",
+    "artist": "Hermitude",
+    "link": "https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt"
+  },
+  {
+    "title": "Neck",
+    "artist": "Mau P",
+    "link": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
+  },
+  {
+    "title": "Rager",
+    "artist": "Blusher",
+    "link": "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
+  },
+  {
+    "title": "Some Kinda Heaven",
+    "artist": "Memphis LK",
+    "link": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
+  },
+  {
+    "title": "Every Storm Hardens The Earth",
+    "artist": "Kenta204",
+    "link": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
+  },
+  {
+    "title": "We Just Got Started",
+    "artist": "Krafty Kuts And Winston Surfshirt",
+    "link": "https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn"
+  },
+  {
+    "title": "Destiny",
+    "artist": "Layton Giordani And Camden Cox",
+    "link": "https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob"
+  },
+  {
+    "title": "With Me",
+    "artist": "John Summit Feat. Julia Wolf",
+    "link": "https://open.spotify.com/track/2LwVs4VcKzTgeqM0QaXDvh"
+  },
+  {
+    "title": "Pink Limo",
+    "artist": "Crooked Colours",
+    "link": "https://open.spotify.com/track/5s3NDzjdhLENwzJShoXg1z"
+  },
+  {
+    "title": "Whistle",
+    "artist": "Hooligan Hefs Feat. Savage",
+    "link": "https://open.spotify.com/track/5zpDCNJjgd8aUjnvMdxhMd"
+  },
+  {
+    "title": "Dusk Til Dawn",
+    "artist": "Tseba",
+    "link": "https://open.spotify.com/track/2XFyqKJufrGK5mAzXbQWFU"
+  },
+  {
+    "title": "Intentions",
+    "artist": "LO'99 And KLP",
+    "link": "https://open.spotify.com/track/7hCslhjJhNF5jZQANmqx3l"
+  },
+  {
+    "title": "Like Fire",
+    "artist": "Sentinel",
+    "link": "https://open.spotify.com/track/6Ri0KLm8r5Jjq4VYWTobO0"
+  },
+  {
+    "title": "Light Up",
+    "artist": "Hermitude Feat. Bob Vylan",
+    "link": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
+  },
+  {
+    "title": "Love Me With A Like",
+    "artist": "Liam Conner",
+    "link": "https://open.spotify.com/track/65SHHgqjumtnqu8jq5Pufr"
+  },
+  {
+    "title": "This Feeling",
+    "artist": "Ben Gerrans",
+    "link": "https://open.spotify.com/track/6RYUBJqSRXYDeQgfH10mBM"
+  },
+  {
+    "title": "Wanted",
+    "artist": "What So Not, The Upbeats And Stace Cadet",
+    "link": "https://open.spotify.com/track/5QGbeS1xV5JGXv8VPAy0rL"
+  },
+  {
+    "title": "Bad And U Know It",
+    "artist": "Wax Motif And Ty Dolla $ign",
+    "link": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Marlon Hoffstadt",
+    "link": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
+  },
+  {
+    "title": "Once In A Lifetime",
+    "artist": "Dimension And bbyclose",
+    "link": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
+  },
+  {
+    "title": "Champagne",
+    "artist": "POOLCLVB And LUPO.THEBOY",
+    "link": "https://open.spotify.com/track/0mkQ0izYmDZUE5JuAPfmfh"
+  },
+  {
+    "title": "We Go So Good Together",
+    "artist": "Harry Hayes",
+    "link": "https://open.spotify.com/track/3zf1Lxm6UoqMlQEhNlaeSt"
+  },
+  {
+    "title": "Get Up",
+    "artist": "Seek N Destroy",
+    "link": "https://open.spotify.com/track/0Sgmo52oG0uk5F0UO7jAAI"
+  },
+  {
+    "title": "Take Me Home (NEW)",
+    "artist": "Armin Van Buuren",
+    "link": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
+  },
+  {
+    "title": "Fancy Footwork (NEW)",
+    "artist": "Chris Lorenzo & Chromeo",
+    "link": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+  },
+  {
+    "title": "Danger Danger",
+    "artist": "Dom Dolla, Solomun & Skepta",
+    "link": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+  },
+  {
+    "title": "Souvenir",
+    "artist": "Josh Baker & Rhys From The Sticks",
+    "link": "https://open.spotify.com/track/7mFoGLIUn1M7ORFx53eEVa"
+  },
+  {
+    "title": "Twice As Nice",
+    "artist": "D.O.D & Armand Van Helden feat. Sam Harper",
+    "link": "https://open.spotify.com/track/7DibdR4QNLCwpsbhYqtJRp"
+  },
+  {
+    "title": "Staring At The Sun (NEW)",
+    "artist": "FISHER And Laurel",
+    "link": "https://open.spotify.com/track/7J0kkgb99OIb3a7IJb6SDT"
+  },
+  {
+    "title": "Joyride",
+    "artist": "Oliver Tree",
+    "link": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
+  },
+  {
+    "title": "On Me",
+    "artist": "VASSY And Mind Electric",
+    "link": "https://open.spotify.com/track/5kVcMyAlCMfj1fVcZjwZ9m"
+  },
+  {
+    "title": "That's Her",
+    "artist": "CYRIL Feat. Wiz Khalifa",
+    "link": "https://open.spotify.com/track/1kkgrnr6OWVBnks8OhZQio"
+  },
+  {
+    "title": "I'm A Freak",
+    "artist": "Dave Winnel",
+    "link": "https://open.spotify.com/track/2l2R40PESJ8ntkkEj38aqV"
+  },
+  {
+    "title": "Giving Up Air (Solomun Remix)",
+    "artist": "The Temper Trap",
+    "link": "https://open.spotify.com/track/2jtGxJ5hmDsdA8W5MV7tR1"
+  },
+  {
+    "title": "Floating Away",
+    "artist": "Alison Wonderland",
+    "link": "https://open.spotify.com/track/65CGn2sHcBbHqOy3H5uz7g"
+  },
+  {
+    "title": "Have You Ever Loved (Ellie)",
+    "artist": "Hannah Laing Feat. Hannah Boleyn",
+    "link": "https://open.spotify.com/track/6LXP8uM57vLvhjiCDYvnys"
+  },
+  {
+    "title": "Lemon",
+    "artist": "MAD.DAY",
+    "link": "https://open.spotify.com/track/6fbFaegQxrCs5uPSXbBcK1"
+  },
+  {
+    "title": "XTC",
+    "artist": "Hellcat Speedracer",
+    "link": "https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A"
+  },
+  {
+    "title": "Forever In My Room",
+    "artist": "Flight Facilities Feat. BROODS",
+    "link": "https://open.spotify.com/track/2tcgn3gjLlXKhrNqu62oAK"
+  },
+  {
+    "title": "The Way I Are (Max Dean Remix)",
+    "artist": "Timbaland Feat. Keri Hilson And D.O.E",
+    "link": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
+  },
+  {
+    "title": "Invisible Wings",
+    "artist": "2charm",
+    "link": "https://open.spotify.com/track/1iwApc5CudQCYHIJKugqYO"
+  },
+  {
+    "title": "Feel So Good Around U",
+    "artist": "LB aka LABAT And Skin On Skin",
+    "link": "https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf"
+  },
+  {
+    "title": "Lights Burn Dimmer",
+    "artist": "Fred again.. And Jamie T",
+    "link": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
+  },
+  {
+    "title": "Girls",
+    "artist": "2charm",
+    "link": "https://open.spotify.com/track/0dZjccxMWrvVy4l3lUJUGG"
+  },
+  {
+    "title": "Addicted To Bass (Dom Dolla Relapse)",
+    "artist": "Puretone",
+    "link": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+  },
+  {
+    "title": "Kick In",
+    "artist": "Opposites Attract",
+    "link": "https://open.spotify.com/track/2HNuXoC3zUlIfAtpWZ3Gpt"
+  },
+  {
+    "title": "Thrills",
+    "artist": "Peking Duk Feat. Rico Nasty",
+    "link": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+  },
+  {
+    "title": "Never Adds Up",
+    "artist": "Luude Feat. Inez",
+    "link": "https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn"
+  },
+  {
+    "title": "I Want Ya",
+    "artist": "Hermitude Feat. IsGwan",
+    "link": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
+  },
+  {
+    "title": "Come Thru",
+    "artist": "Crooked Colours",
+    "link": "https://open.spotify.com/track/4rLlpB48HQnzCjoRslMuKU"
+  },
+  {
+    "title": "Gone Too Far (NEW)",
+    "artist": "Chase & Status FEAT. DEBBIE",
+    "link": "https://open.spotify.com/track/2AViqkKNd2cduBB2whD1YZ"
+  },
+  {
+    "title": "Bass Persuades (NEW)",
+    "artist": "Miley Cyrus",
+    "link": "https://open.spotify.com/track/3LzQnKyOaYOfmroOwIvKUS"
+  },
+  {
+    "title": "Party",
+    "artist": "Troye Sivan",
+    "link": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+  },
+  {
+    "title": "Danza (NEW)",
+    "artist": "WEISS & Alex Hosking",
+    "link": "https://open.spotify.com/track/7m0ZNhAt9A1GXSsCqlT9P3"
+  },
+  {
+    "title": "Out Of Sight, Out Of Mind (NEW)",
+    "artist": "Odd Mob & SCRIPT & Goodboys",
+    "link": "https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF"
   }
 ];
