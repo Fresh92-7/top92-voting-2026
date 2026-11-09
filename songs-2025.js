@@ -550,11 +550,6 @@ window.SONGS_2025 = [
     "spotify": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H?si=57fa7537a9204f3a"
   },
   {
-    "title": "Habits (Stay High) (Hippie Sabotage Remix)",
-    "artist": "Tove Lo",
-    "spotify": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf?si=24075f479dd941a9"
-  },
-  {
     "title": "Fire Fire",
     "artist": "Shimza, AR/CO And Kasango",
     "spotify": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ?si=b3e3cae874024340"
